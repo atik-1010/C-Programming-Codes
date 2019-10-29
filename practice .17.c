@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main()
+{
+    int num = 50;
+    if(num>=1 || num<=20){
+        printf("yes\n");
+
+    }
+    else{
+        printf("no\n");
+    }
+    return 0;
+}
